@@ -147,6 +147,7 @@ onMounted(() => {
   padding: 8px;
   border-radius: 6px;
 }
+
 .cell {
   width: 60px;
   height: 60px;
